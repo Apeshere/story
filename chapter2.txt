@@ -1,0 +1,6 @@
+so this is the second time
+am using 
+
+vim. 
+only learned that i need to press esc first before i can type in quit command\
+
